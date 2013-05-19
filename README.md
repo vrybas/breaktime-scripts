@@ -6,3 +6,6 @@ BreakTime AppleScripts
 
 #### 'End' script
 * Opens oDesk Memo window
+
+#### 'Kbshortcut' script
+* Presses keyboard combination `Command-Option-T` which in my case activates [DayOne](https://itunes.apple.com/us/app/day-one/id422304217?mt=12) quick entry window
