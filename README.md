@@ -6,3 +6,4 @@ BreakTime AppleScripts
 
 #### 'End' script
 * Opens oDesk Memo window
+* Shows Notifications Panel
